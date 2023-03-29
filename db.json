@@ -1,0 +1,42 @@
+{
+  "entries": [
+    {
+      "id": 2,
+      "description": "Light Bill"
+    },
+    {
+      "id": 4,
+      "description": "Water Bill"
+    },
+    {
+      "id": "ebd425c6-78ca-4b3c-8b4d-e27ba5deea5b",
+      "description": "test"
+    },
+    {
+      "id": "3fe3e6a9-06f4-40f6-b749-5d7371aa4f85",
+      "description": "test"
+    }
+  ],
+  "values": [
+    {
+      "id": 2,
+      "value": 50,
+      "isExpense": true
+    },
+    {
+      "id": 4,
+      "value": 20,
+      "isExpense": true
+    },
+    {
+      "id": "ebd425c6-78ca-4b3c-8b4d-e27ba5deea5b",
+      "value": 120,
+      "isExpense": true
+    },
+    {
+      "id": "3fe3e6a9-06f4-40f6-b749-5d7371aa4f85",
+      "value": 1520,
+      "isExpense": false
+    }
+  ]
+}
